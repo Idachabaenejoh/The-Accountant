@@ -1,3 +1,11 @@
+## Git-connected deployment
+
+Production demo: https://the-accountant-sigma.vercel.app/
+
+Vercel project: `the-accountant`, linked to `Idachabaenejoh/The-Accountant` branch `main`.
+Changes to the repository are intended to trigger a new Vercel deployment.
+This is a public, fictional UX sandbox—not a wallet or financial service.
+
 # The Accountant — UX Prototype v3.0
 
 A static, standalone user-experience simulation of The Accountant personal financial application. **No real bank or wallet API, no account access, no server data storage, no real transfers, no authentication, no actual AI service.**
